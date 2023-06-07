@@ -197,6 +197,37 @@ div=d5/d6
 print('div: ',div)
 print()
 
+print('Arithmetic Operations')
+print()
+
+a1=3.145e-2
+a2=150604
+a3=121203
+a4=1.234
+
+print('a1:',a1,'a2:',a2,'a3:',a3,'a4:',a4)
+print()
+
+add=a1+a2+a3+a4
+print('add: ',add)
+
+sub=a1-a2-a3-a4
+print('sub: ',sub)
+
+mul=a1*a2*a3*a4
+print('mul: ',mul)
+
+div=a1/a2/a3/a4
+print('div: ',div)
+print()
+
+b1=-3.145e-2
+b2-150604
+b3=121203
+b4=1.234
+
+
+
 
 
 

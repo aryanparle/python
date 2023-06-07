@@ -68,8 +68,8 @@ print('mul: ',mul)
 div=d1/d2
 print('div: ',div)
 print()
-'''
-'''
+
+
 print('Integers and Complex numbers')
 
 a3=24
